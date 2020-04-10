@@ -14,3 +14,7 @@ I am mainly interested in 2 things:
 
 If any though comes into your mind make sure to either send it by email: guyabihanna@gmail.com
 or comment it on Kaggle!
+
+### Kaggle Link
+
+* [Kaggle Lebanese Lottery](https://www.kaggle.com/guyabihanna/lebanese-lottery) - Check out the project here
