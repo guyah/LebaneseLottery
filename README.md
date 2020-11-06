@@ -12,6 +12,11 @@ I am mainly interested in 3 things:
 2. Assessing the best model to predict randomized data.
 3. Data science obviously.
 
+### Notebook
+
+You  may find the ipynb notebook that I have implemented, which can also be found on Kaggle.
+
+
 ### Kaggle Link
 
 * [Kaggle Lebanese Lottery](https://www.kaggle.com/guyabihanna/lebanese-lottery) - Check out the project here
